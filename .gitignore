@@ -1,5 +1,5 @@
 .DS_Store
 xdist/
 xdocs/.observablehq/cache/
-node_modules/
+xnode_modules/
 yarn-error.log
