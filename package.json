@@ -1,0 +1,18 @@
+{
+  "name": "mosaic-framework-example",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf docs/.observablehq/cache",
+    "build": "rm -rf dist && observable build",
+    "dev": "observable preview",
+    "deploy": "observable deploy",
+    "observable": "observable"
+  },
+  "dependencies": {
+    "@observablehq/framework": "^1.9.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

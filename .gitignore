@@ -1,0 +1,5 @@
+.DS_Store
+xdist/
+xdocs/.observablehq/cache/
+node_modules/
+yarn-error.log
